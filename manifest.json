@@ -1,0 +1,29 @@
+{
+  "name": "CaloriTons",
+  "short_name": "CaloriTons",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#84cc16",
+  "description": "Seu assistente pessoal de nutrição e contador de calorias.",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://lucide.dev/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://lucide.dev/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://lucide.dev/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
